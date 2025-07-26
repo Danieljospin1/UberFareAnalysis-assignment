@@ -58,6 +58,8 @@ Off-peak rides dominate (~65%)
 
 # Screenshots
 <img width="960" height="491" alt="Screenshot 2025-07-26 183838" src="https://github.com/user-attachments/assets/c212d79d-dea1-4632-8b96-9bdba4a6b871" />
+<img width="960" height="477" alt="image" src="https://github.com/user-attachments/assets/2c458197-e985-45c3-bee0-45abeefb1471" />
+
 
 
 
